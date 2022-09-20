@@ -4,6 +4,8 @@ Desafio da Rocketseat para exercer o uso do HTML e CSS.
 
 #
 
-<img src="./assets/print.png" >
+<div align="center">
+<img src="./assets/print.png"  >
+</div>
 
 #
